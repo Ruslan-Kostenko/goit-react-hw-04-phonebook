@@ -1,4 +1,4 @@
-import { ContactItem } from './ContactItem';
+import { ContactItem } from '../ContactItem/ContactItem';
 
 export const ContactList = ({ contacts, deleted }) => {
   return (

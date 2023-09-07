@@ -1,4 +1,4 @@
-import { ContItemEl, ContactBtn } from './PhoneBook.styled';
+import { ContItemEl, ContactBtn } from './ContactItem.styled';
 
 export const ContactItem = ({ name, number, id, deleted }) => {
   return (

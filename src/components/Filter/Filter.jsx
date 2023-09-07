@@ -1,4 +1,4 @@
-import { FilterInput } from './PhoneBook.styled';
+import { FilterInput } from './Filter.styled';
 
 export const Filter = ({ phoneFilter, changeFilter }) => {
   return (
